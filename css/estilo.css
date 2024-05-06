@@ -1,0 +1,36 @@
+#nombre{
+    color: brown;
+    font-size: 40px;
+}
+
+#logo{
+    font-size: 30px
+}
+
+#body{
+    background-color: gray;
+}
+
+#adicciones{
+    font-size: 30px;
+    margin: 10px;
+
+}
+
+#textoAdicciones{
+    font-size: 20px;
+}
+#videoYoutube{
+    width: 600px;
+}
+
+#audio{
+    font-size: 30px;
+}
+
+#licencias{
+    font-size: 30px;
+}
+#audioSonido{
+    width: 500px;
+}
