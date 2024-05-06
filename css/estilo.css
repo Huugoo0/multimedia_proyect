@@ -1,0 +1,57 @@
+#nombre{
+    color: brown;
+    font-size: 40px;
+    text-align: center;
+}
+
+#logotipo{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+#logo{
+    font-size: 30px;
+    margin: 20px;
+}   
+#body{
+    background-color: gray;
+}
+
+#adicciones{
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+#video{
+    display: flex;
+    justify-content: center;
+}
+#textoAdicciones{
+    font-size: 20px;
+    text-align: center;
+}
+#videoYoutube{
+    width: 600px;
+    text-align: center;
+}
+
+#audio{
+    font-size: 30px;
+    text-align: center;
+}
+
+#licencias{
+    font-size: 30px;
+    text-align: center;
+}
+#audioSonido{
+    width: 500px;
+}
+
+#divAudio{
+    display: flex;
+    justify-content: center;
+}
